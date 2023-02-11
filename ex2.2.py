@@ -44,7 +44,7 @@ def divide_and_conquer(array, chunk_size):
 
 
 if __name__ == '__main__':
-    with open('ex2.5.json', "r") as f:
+    with open('ex2.json', "r") as f:
         data = json.load(f)
 
     times = []
