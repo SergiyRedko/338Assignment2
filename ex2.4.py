@@ -48,7 +48,7 @@ def func2(arr, low, high):
 
 
 if __name__ == '__main__':
-    with open('ex2w.json', "r") as f:
+    with open('ex2.json', "r") as f:
         data = json.load(f)
 
     times = []
